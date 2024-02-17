@@ -1,8 +1,0 @@
-# Contraseña para el usuario root de MariaDB
-MARIADB_ROOT_PASSWORD=anaydavid
-
-# Nombre de usuario de MariaDB
-MARIADB_USER=anaydavid
-
-# Contraseña para PhpMyAdmin
-PHPMYADMIN_PASSWORD=anaydavid
